@@ -1,2 +1,0 @@
-# rutyyo
-esdeprueba
